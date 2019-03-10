@@ -19,3 +19,11 @@
   opacity: 0.01;
   transition: opacity 1000ms ease-in;
 }
+
+nav.bg-dark {
+  background-color: maroon !important;
+}
+
+button.btn-dark {
+  background-color: maroon !important;
+}
