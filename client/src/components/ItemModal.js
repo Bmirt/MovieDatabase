@@ -72,7 +72,7 @@ class ItemModal extends Component {
                   type='text'
                   name='name'
                   id='item'
-                  placeholder='Add shopping item'
+                  placeholder='Add Movie To the wishlist'
                   onChange={this.onChange}
                 />
                 <Button color='dark' style={{ marginTop: '2rem' }} block>
